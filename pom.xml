@@ -8,5 +8,6 @@
     <modules>
         <module>springbootmybatis</module>
         <module>springbootweb</module>
+        <module>springbootmongodb</module>
     </modules>
 </project>
